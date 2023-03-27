@@ -1,16 +1,14 @@
-### Hi there 👋
+## **About me**
+Hi there, I am a Python and Postgresql developer with experience in Git. I am passionate about coding and I have been working on various projects in my repositories. My ultimate goal is to become a data scientist and apply my skills to solve complex problems with data-driven solutions. In my free time, you can find me working on personal projects, exploring new data sets, and contributing to open-source projects. I am also actively seeking internship opportunities to learn and work with other developers both locally and internationally.
 
-<!--
-**ClassicIsaac/ClassicIsaac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Python
+- PostgreSQL
+- Git
 
-Here are some ideas to get you started:
+### Expertise
+I am comfortable working with Python data analysis and manipulation libraries such as pandas, numpy and scikit-learn.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+If you're interested in collaborating on a project or have any questions, feel free to reach out to me at jesufemioresanya03@gmail.com. I am always open to discussing new projects and collaboration opportunities.
+Thank you for visiting my profile!

@@ -1,16 +1,45 @@
-## **About me**
-Hi there, I am a Python and Postgresql developer with experience in Git. I am passionate about coding and I have been working on various projects in my repositories. My ultimate goal is to become a data analyst and apply my skills to solve complex problems with data-driven solutions. In my free time, you can find me working on personal projects, exploring new data sets, and contributing to open-source projects. I am also actively seeking internship opportunities to learn and work with other developers both locally and internationally.
+# Hi, I'm Isaac Oresanya
 
-### Skills
-- Excel
-- Python
+I'm a **Reporting & Operations Analyst** based in Ibadan, Nigeria (UTC+1).
+
+My work sits across three connected areas:
+
+- **Recurring reporting and business intelligence** — KPI tracking, dashboards, and clear analytical communication.
+- **Programme and delivery operations** — cohort coordination, SOPs, progress tracking, and technical enablement.
+- **Data workflows and quality** — collection, cleaning, schema standardization, QA, documentation, and handover.
+
+## What I use
+
+- SQL
+- Python, pandas, and scikit-learn
+- Excel and Google Sheets
+- Streamlit, Tableau, and Power BI
+- Scrapy, Playwright, and Beautiful Soup
 - PostgreSQL
-- Git
-- Web Scraping
 
-### Expertise
-I am comfortable working with Python data analysis and manipulation libraries such as pandas, numpy, and scikit-learn. Additionally, I am proficient in data manipulation using Excel, querying databases using SQL, and creating interactive visualizations in Tableau. I am also skilled in web scraping using libraries such as Beautiful Soup and Scrapy.
+## Selected proof
 
-### Contact
-If you're interested in collaborating on a project or have any questions, feel free to reach out to me at jesufemioresanya03@gmail.com. I am always open to discussing new projects and collaboration opportunities.
-Thank you for visiting my profile!
+- **Multi-source freelance-market workflow:** collected and standardized 163,229 records from three platforms, prepared 141,228 analysis-ready records, investigated duplicate records, and documented the delivery and handover.
+- **Freelancer.com public demonstration:** a separate 9,193-posting project showing scraping, cleaning, and documentation of messy pricing, currency, location, and role fields.
+- **Reporting and programme operations:** recurring KPI reporting, analytical views, cohort coordination, and reusable operating procedures.
+
+See the evidence boundaries and selected case studies on [isaacjoresanya.com](https://isaacjoresanya.com/).
+
+## Current focus
+
+I'm targeting verified remote roles in reporting, performance analysis, programme operations, business intelligence, and workflow-focused data operations.
+
+## Writing
+
+I publish **Explain the Data**, where I write about SQL, reporting, dashboards, data cleaning, and the reasoning behind useful analysis.
+
+- [Portfolio](https://isaacjoresanya.com/)
+- [LinkedIn](https://www.linkedin.com/in/isaac-oresanya)
+- [Explain the Data](https://explainthedata.substack.com/)
+- [Medium](https://medium.com/@thedataisaac)
+
+## A note on evidence
+
+Projects here are labelled as paid client work or public demonstrations. Demonstration repositories are not described as production systems unless deployment, monitoring, and operating evidence exist.
+
+You can reach me at **isaacjoresanya@gmail.com**.

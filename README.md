@@ -1,45 +1,35 @@
 # Hi, I'm Isaac Oresanya
 
-I'm a **Reporting & Operations Analyst** based in Ibadan, Nigeria (UTC+1).
+I'm an applied AI engineer based in Ibadan, Nigeria (UTC+1). I build AI applications in Python that answer questions from documents and turn messy text into structured records. Before this I worked in data reporting and operations, and that's where I got careful about checking results.
 
-My work sits across three connected areas:
+## What I've built
 
-- **Recurring reporting and business intelligence** — KPI tracking, dashboards, and clear analytical communication.
-- **Programme and delivery operations** — cohort coordination, SOPs, progress tracking, and technical enablement.
-- **Data workflows and quality** — collection, cleaning, schema standardization, QA, documentation, and handover.
+- **[What Would Isaac Say?](https://github.com/TheDataIsaac/what-would-isaac-say)** answers questions from my newsletter and reviews a reader's dashboard or report. Plain code checks every quote against the original text, and the assistant refuses rather than guesses. Built with LangGraph, FastAPI and Chroma, and live on a small server.
+- **[Job extraction pipeline](https://github.com/TheDataIsaac/job-extraction-pipeline)** turns about 8,600 messy job postings into typed records with an LLM and Pydantic. Facts that are easy to invent need a quote from the posting, and code checks each one. It also answers questions over the postings with citations.
+- **[Hybrid search](https://github.com/TheDataIsaac/hybrid-search)** combines keyword search (BM25) and meaning search (embeddings) over freeCodeCamp lessons, merges the two with rank fusion, and can answer with cited lessons.
+
+These are independent projects, not production systems with paying users.
 
 ## What I use
 
-- SQL
-- Python, pandas, and scikit-learn
-- Excel and Google Sheets
-- Streamlit, Tableau, and Power BI
-- Scrapy, Playwright, and Beautiful Soup
-- PostgreSQL
+- Python, FastAPI, Pydantic
+- OpenAI API, LangGraph
+- Embeddings, BM25, Chroma, RAG
+- Docker, SQL, Git
 
-## Selected proof
+## Earlier data work
 
-- **Multi-source freelance-market workflow:** collected and standardized 163,229 records from three platforms, prepared 141,228 analysis-ready records, investigated duplicate records, and documented the delivery and handover.
-- **Freelancer.com public demonstration:** a separate 9,193-posting project showing scraping, cleaning, and documentation of messy pricing, currency, location, and role fields.
-- **Reporting and programme operations:** recurring KPI reporting, analytical views, cohort coordination, and reusable operating procedures.
-
-See the evidence boundaries and selected case studies on [isaacjoresanya.com](https://isaacjoresanya.com/).
-
-## Current focus
-
-I'm targeting verified remote roles in reporting, performance analysis, programme operations, business intelligence, and workflow-focused data operations.
+I've done paid reporting, data operations and data quality work since 2024. That work is on the [portfolio's data page](https://isaacjoresanya.com/data-work/), and older scraping and analysis projects are still in my repositories.
 
 ## Writing
 
-I publish **Explain the Data**, where I write about SQL, reporting, dashboards, data cleaning, and the reasoning behind useful analysis.
+I write [Explain the Data](https://explainthedata.substack.com/), a newsletter about data work and the AI projects I build.
+
+## Find me
 
 - [Portfolio](https://isaacjoresanya.com/)
 - [LinkedIn](https://www.linkedin.com/in/isaac-oresanya)
-- [Explain the Data](https://explainthedata.substack.com/)
 - [Medium](https://medium.com/@thedataisaac)
+- isaacjoresanya@gmail.com
 
-## A note on evidence
-
-Projects here are labelled as paid client work or public demonstrations. Demonstration repositories are not described as production systems unless deployment, monitoring, and operating evidence exist.
-
-You can reach me at **isaacjoresanya@gmail.com**.
+I'm available for remote AI work.
